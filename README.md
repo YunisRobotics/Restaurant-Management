@@ -8,7 +8,7 @@ This Python-based **Restaurant Management System** allows users to view, add men
 - **Add Menu**: Add new meals to the menu with meal name and cost.
 - **New Order**: Place orders by selecting meal IDs and specifying quantities. Orders are saved in `Orders.txt`.
 - **View Orders**: Display all past orders with customer names and total payments.
-- **Exit**: Close the system gracefully.
+- **Exit**: Close the system correctly.
 
 ## How It Works
 
@@ -67,7 +67,8 @@ Customer name: 'John Doe'  Total_Pay: '20$'
 ## Dependencies
 
 - **Python 3.x**
-- No external libraries required.
+- Basic Python knowledge
+- Understanding File Structure and OOP
 
 ## Future Enhancements
 
@@ -77,4 +78,4 @@ Customer name: 'John Doe'  Total_Pay: '20$'
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/YunisRobotics/Restaurant-Management/blob/main/README.md) License.
