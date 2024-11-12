@@ -1,0 +1,4 @@
+Customer name: 'Yunis Allahverdi'  Total_Pay: '46.5$'
+Customer name: 'Mike Tyson'  Total_Pay: '51.5$'
+Customer name: 'Andrew Tate'  Total_Pay: '120.5$'
+Customer name: 'Elon Musk'  Total_Pay: '85.0$'
