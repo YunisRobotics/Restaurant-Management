@@ -78,4 +78,4 @@ Customer name: 'John Doe'  Total_Pay: '20$'
 
 ## License
 
-This project is licensed under the [MIT](https://github.com/YunisRobotics/Restaurant-Management/blob/main/README.md) License.
+This project is licensed under the [MIT](https://github.com/YunisRobotics/Restaurant-Management/blob/main/LICENSE) License.
