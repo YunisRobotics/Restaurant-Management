@@ -55,13 +55,13 @@ This Python-based **Restaurant Management System** allows users to view, add men
 
 **Menu.txt**:
 ```
-001: 'Pizza' -> '8$'
-002: 'Sushi' -> '12$'
+001: 'Dolma' -> '8$'
+002: 'Merci' -> '12$'
 ```
 
 **Orders.txt**:
 ```
-Customer name: 'John Doe'  Total_Pay: '20$'
+Customer name: 'Yunis Allahverdi'  Total_Pay: '20$'
 ```
 
 ## Dependencies
